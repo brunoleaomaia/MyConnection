@@ -1,4 +1,4 @@
 MyConnection
 ============
 
-Sample Application for Mozilla FirefoxOS
+Sample Application for Mozilla FirefoxOS.
