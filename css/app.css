@@ -1,0 +1,68 @@
+#myMap {
+    height: 17em;
+}
+#myConnection {
+    font-weight: bold
+}
+#myPicture {
+    float: left;
+    border: 1px solid #999;
+    padding: 2px;
+    margin-right: 10px;
+}
+#myName {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#myLocation {
+    margin-top: 2px;
+    margin-bottom: 20px;
+}
+
+.bt-test span {
+    height: 3em;            
+}
+.bt-test span span {
+    top: 25%;
+    font-size: 2em;
+}
+/*
+ * Replacing jQuery Mobile Default CSS
+ */
+.type-interior .ui-content {
+        background-position: 45%;
+        overflow: hidden;
+}
+.ui-corner-all {
+        -moz-border-radius: 			.3em /*{global-radii-blocks}*/;
+        -webkit-border-radius: 			.3em /*{global-radii-blocks}*/;
+        border-radius: 					.3em /*{global-radii-blocks}*/;
+}
+.ui-corner-top {
+	-moz-border-radius-topleft: 		.3em /*{global-radii-blocks}*/;
+	-webkit-border-top-left-radius: 	.3em /*{global-radii-blocks}*/;
+	border-top-left-radius: 			.3em /*{global-radii-blocks}*/;
+	-moz-border-radius-topright: 		.3em /*{global-radii-blocks}*/;
+	-webkit-border-top-right-radius: 	.3em /*{global-radii-blocks}*/;
+	border-top-right-radius: 			.3em /*{global-radii-blocks}*/;
+}
+.ui-corner-bottom {
+	-moz-border-radius-bottomleft: 		.3em /*{global-radii-blocks}*/;
+	-webkit-border-bottom-left-radius: 	.3em /*{global-radii-blocks}*/;
+	border-bottom-left-radius: 			.3em /*{global-radii-blocks}*/;
+	-moz-border-radius-bottomright: 	.3em /*{global-radii-blocks}*/;
+	-webkit-border-bottom-right-radius: .3em /*{global-radii-blocks}*/;
+	border-bottom-right-radius: 		.3em /*{global-radii-blocks}*/;
+}
+.ui-btn-corner-all {
+        -moz-border-radius: 			.3em /*{global-radii-buttons}*/;
+        -webkit-border-radius: 			.3em /*{global-radii-buttons}*/;
+        border-radius: 					.3em /*{global-radii-buttons}*/;
+}
+.ui-icon {
+    -moz-border-radius: 				3px;
+    -webkit-border-radius: 				3px;
+    border-radius: 						3px;
+}

@@ -1,0 +1,37 @@
+{
+  "version": "0.0.1",
+  "name": "My Connection",
+  "description": "Test your speed connection.",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Bruno Maia",
+    "url": "http://www.jqmphp.com"
+  },
+  "permissions": [
+    "sms",
+    "contacts",
+    "webcontacts-manage",
+    "settings"
+  ],
+  "locales": {
+    "pt-BR": {
+      "name": "Minha Conexao",
+      "description": "Teste a velocidade da sua conexao."
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "16": "/images/icon-16.png",
+    "24": "/images/icon-24.png",
+    "32": "/images/icon-32.png",
+    "48": "/images/icon-48.png",
+    "60": "/images/icon-60.png",
+    "120": "/images/icon-120.png",
+    "128": "/images/icon-128.png",
+    "256": "/images/icon-256.png",
+    "512": "/images/icon-512.png"
+  },
+  "installs_allowed_from": ["*"],
+  "appcache_path": "/owd.appcache",
+  "orientation": "portrait-primary"
+}
